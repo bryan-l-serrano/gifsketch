@@ -25,4 +25,7 @@ b) leave you with possibly several hundred images in that folder
 Neither of these are fun so please make an empty folder named output in the 
 same directory you save sketchgif.py to 
 
+I would also like to thank github user revolunet for the extractGif function they wrote. 
+It's super simple and super awesome and does the job perfectly. 
+
 
